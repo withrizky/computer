@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://macosclone-qyhf333zv-withrizkys-projects.vercel.app/';
+        iframe.src = 'https://macosclone.vercel.app/';
         /**
          * Use dev server is query params are present
          *
